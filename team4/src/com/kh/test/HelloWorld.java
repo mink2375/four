@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 			//제가 확인했습니다
 			//폴더도 확인했습니다
+		
+		System.out.println("reStart");
 	}
 
 }
