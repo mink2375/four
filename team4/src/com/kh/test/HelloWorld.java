@@ -8,6 +8,7 @@ public class HelloWorld {
 			//폴더도 확인했습니다
 		
 		System.out.println("reStart");
+		System.out.println("replay");
 	}
 
 }
