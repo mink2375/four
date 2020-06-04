@@ -1,0 +1,12 @@
+
+public class test2 {
+
+	private void syso() {
+		//æ»≥Á«œººø‰
+		//Hello
+
+	}
+	
+	
+	
+}
